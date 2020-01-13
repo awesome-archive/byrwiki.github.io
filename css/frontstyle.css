@@ -82,9 +82,22 @@ font-size: 20px;
 #zhongjian{
 	font-size: 15px;
 	color: #FFFFFF;
+	text-align: center;
+	font-family: "微软雅黑";
 
 	
 }
+
+#guoqing{
+	font-size: 17px;
+	color: #ff0000;
+	font-weight:bolder;
+	text-align: center;
+	font-family: "微软雅黑";
+
+	
+}
+
 
 
 #zb{
@@ -103,7 +116,16 @@ font-size: 20px;
 .LOGO{
 	position: relative;
 	margin-left: 0;
+	margin-top: ;
 }
+
+.sLOGO{
+	position: relative;
+	margin-left: 0;
+	margin-top: 15%;
+}
+
+
 
 #key{
   /*font-size: 18px;*/
@@ -277,7 +299,7 @@ font-size: 20px;
 	text-align: center;
 	position: auto;
 	color: #333;
-	font-size: 16px;
+	font-size: 12px;
 	font-family: "微软雅黑";
 	line-height: normal;
 	
@@ -286,8 +308,10 @@ font-size: 20px;
 .liuyan{
 	text-align: center;
 	position: auto;
-	font-size: 30px;
+	font-size: 20px;
 	font-family: "微软雅黑";
 	line-height: normal;
 	
 }
+
+
